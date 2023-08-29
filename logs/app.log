@@ -1,0 +1,50 @@
+2023-08-28 16:21:20.645 [main] INFO  api.test.Customertest - ********** OTP Generate **************
+2023-08-28 16:21:23.849 [main] INFO  api.test.Customertest - ********** OTP Successfully Generated **************
+2023-08-28 16:21:23.870 [main] INFO  api.test.Customertest - ********** Verify OTP **************
+2023-08-28 16:21:27.662 [main] INFO  api.test.Customertest - ********** OTP Verified Succesfully **************
+2023-08-28 16:21:27.833 [main] INFO  api.test.Customertest - ********** User Register **************
+2023-08-28 16:21:31.598 [main] INFO  api.test.Customertest - ********** User successfully Registered **************
+2023-08-28 16:21:31.604 [main] INFO  api.test.Customertest - ********** User Logout **************
+2023-08-28 16:21:35.728 [main] INFO  api.test.Customertest - ********** User logout Successfully **************
+2023-08-28 16:21:35.736 [main] INFO  api.test.Customertest - ********** User Login **************
+2023-08-28 16:21:37.113 [main] INFO  api.test.Customertest - ********** User Login Successfully **************
+2023-08-28 16:33:24.202 [main] INFO  api.test.Customertest - ********** OTP Generate **************
+2023-08-28 16:33:28.789 [main] INFO  api.test.Customertest - ********** OTP Successfully Generated **************
+2023-08-28 16:33:28.803 [main] INFO  api.test.Customertest - ********** Verify OTP **************
+2023-08-28 16:33:32.746 [main] INFO  api.test.Customertest - ********** OTP Verified Succesfully **************
+2023-08-28 16:33:32.931 [main] INFO  api.test.Customertest - ********** User Register **************
+2023-08-28 16:33:36.746 [main] INFO  api.test.Customertest - ********** User successfully Registered **************
+2023-08-28 16:33:36.758 [main] INFO  api.test.Customertest - ********** User Logout **************
+2023-08-28 16:33:41.660 [main] INFO  api.test.Customertest - ********** User logout Successfully **************
+2023-08-28 16:33:41.668 [main] INFO  api.test.Customertest - ********** User Login **************
+2023-08-28 16:33:42.674 [main] INFO  api.test.Customertest - ********** User Login Successfully **************
+2023-08-28 16:49:03.484 [main] INFO  api.test.Customertest - ********** OTP Generate **************
+2023-08-28 16:49:06.990 [main] INFO  api.test.Customertest - ********** OTP Successfully Generated **************
+2023-08-28 16:49:07.001 [main] INFO  api.test.Customertest - ********** Verify OTP **************
+2023-08-28 16:49:11.143 [main] INFO  api.test.Customertest - ********** OTP Verified Succesfully **************
+2023-08-28 16:49:11.355 [main] INFO  api.test.Customertest - ********** User Register **************
+2023-08-28 16:49:14.195 [main] INFO  api.test.Customertest - ********** User successfully Registered **************
+2023-08-28 16:49:14.198 [main] INFO  api.test.Customertest - ********** User Logout **************
+2023-08-28 16:49:18.132 [main] INFO  api.test.Customertest - ********** User logout Successfully **************
+2023-08-28 16:49:18.136 [main] INFO  api.test.Customertest - ********** User Login **************
+2023-08-28 16:49:19.405 [main] INFO  api.test.Customertest - ********** User Login Successfully **************
+2023-08-29 15:13:22.760 [main] INFO  api.test.Customertest - ********** OTP Generate **************
+2023-08-29 15:13:27.280 [main] INFO  api.test.Customertest - ********** OTP Successfully Generated **************
+2023-08-29 15:13:27.295 [main] INFO  api.test.Customertest - ********** Verify OTP **************
+2023-08-29 15:13:31.025 [main] INFO  api.test.Customertest - ********** OTP Verified Succesfully **************
+2023-08-29 15:13:31.207 [main] INFO  api.test.Customertest - ********** User Register **************
+2023-08-29 15:13:35.297 [main] INFO  api.test.Customertest - ********** User successfully Registered **************
+2023-08-29 15:13:35.301 [main] INFO  api.test.Customertest - ********** User Logout **************
+2023-08-29 15:13:39.400 [main] INFO  api.test.Customertest - ********** User logout Successfully **************
+2023-08-29 15:13:39.415 [main] INFO  api.test.Customertest - ********** User Login **************
+2023-08-29 15:13:40.690 [main] INFO  api.test.Customertest - ********** User Login Successfully **************
+2023-08-29 15:14:28.319 [main] INFO  api.test.Customertest - ********** OTP Generate **************
+2023-08-29 15:14:31.770 [main] INFO  api.test.Customertest - ********** OTP Successfully Generated **************
+2023-08-29 15:14:31.786 [main] INFO  api.test.Customertest - ********** Verify OTP **************
+2023-08-29 15:14:35.803 [main] INFO  api.test.Customertest - ********** OTP Verified Succesfully **************
+2023-08-29 15:14:35.979 [main] INFO  api.test.Customertest - ********** User Register **************
+2023-08-29 15:14:39.362 [main] INFO  api.test.Customertest - ********** User successfully Registered **************
+2023-08-29 15:14:39.365 [main] INFO  api.test.Customertest - ********** User Logout **************
+2023-08-29 15:14:43.108 [main] INFO  api.test.Customertest - ********** User logout Successfully **************
+2023-08-29 15:14:43.112 [main] INFO  api.test.Customertest - ********** User Login **************
+2023-08-29 15:14:44.535 [main] INFO  api.test.Customertest - ********** User Login Successfully **************

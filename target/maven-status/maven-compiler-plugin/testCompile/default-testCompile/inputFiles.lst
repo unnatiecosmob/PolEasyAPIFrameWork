@@ -1,0 +1,8 @@
+/home/unnati/eclipse-workspace/APIAutomation/RestassuredAPI/PolEasyAPIFrameWork/src/test/java/api/test/Customertest.java
+/home/unnati/eclipse-workspace/APIAutomation/RestassuredAPI/PolEasyAPIFrameWork/src/test/java/api/payload/Login.java
+/home/unnati/eclipse-workspace/APIAutomation/RestassuredAPI/PolEasyAPIFrameWork/src/test/java/api/payload/Signupcustomer.java
+/home/unnati/eclipse-workspace/APIAutomation/RestassuredAPI/PolEasyAPIFrameWork/src/test/java/api/payload/GenerateOTP.java
+/home/unnati/eclipse-workspace/APIAutomation/RestassuredAPI/PolEasyAPIFrameWork/src/test/java/api/endpoints/Customerendpoints.java
+/home/unnati/eclipse-workspace/APIAutomation/RestassuredAPI/PolEasyAPIFrameWork/src/test/java/api/payload/VerifyOTP.java
+/home/unnati/eclipse-workspace/APIAutomation/RestassuredAPI/PolEasyAPIFrameWork/src/test/java/api/utilities/ExtentReportManager.java
+/home/unnati/eclipse-workspace/APIAutomation/RestassuredAPI/PolEasyAPIFrameWork/src/test/java/api/endpoints/Routes.java

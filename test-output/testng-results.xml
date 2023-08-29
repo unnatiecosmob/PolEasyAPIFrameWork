@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-28T16:33:23 IST" name="PolEasy" finished-at="2023-08-28T16:33:42 IST" duration-ms="19228">
+    <groups>
+    </groups>
+    <test started-at="2023-08-28T16:33:23 IST" name="PolEasy" finished-at="2023-08-28T16:33:42 IST" duration-ms="19228">
+      <class name="api.test.Customertest">
+        <test-method is-config="true" signature="logsetup()[pri:0, instance:api.test.Customertest@2e6a8155]" started-at="2023-08-28T16:33:23 IST" name="logsetup" finished-at="2023-08-28T16:33:24 IST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logsetup -->
+        <test-method signature="TestgenerateOTP()[pri:1, instance:api.test.Customertest@2e6a8155]" started-at="2023-08-28T16:33:24 IST" name="TestgenerateOTP" finished-at="2023-08-28T16:33:28 IST" duration-ms="4599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestgenerateOTP -->
+        <test-method signature="TestverifyOTP()[pri:2, instance:api.test.Customertest@2e6a8155]" started-at="2023-08-28T16:33:28 IST" name="TestverifyOTP" finished-at="2023-08-28T16:33:32 IST" duration-ms="3945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestverifyOTP -->
+        <test-method signature="Testsignup()[pri:3, instance:api.test.Customertest@2e6a8155]" started-at="2023-08-28T16:33:32 IST" name="Testsignup" finished-at="2023-08-28T16:33:36 IST" duration-ms="3995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testsignup -->
+        <test-method signature="Testlogout()[pri:4, instance:api.test.Customertest@2e6a8155]" started-at="2023-08-28T16:33:36 IST" name="Testlogout" finished-at="2023-08-28T16:33:41 IST" duration-ms="4904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testlogout -->
+        <test-method signature="Testlogin()[pri:5, instance:api.test.Customertest@2e6a8155]" started-at="2023-08-28T16:33:41 IST" name="Testlogin" finished-at="2023-08-28T16:33:42 IST" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testlogin -->
+      </class> <!-- api.test.Customertest -->
+    </test> <!-- PolEasy -->
+  </suite> <!-- PolEasy -->
+</testng-results>
